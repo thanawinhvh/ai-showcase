@@ -2,7 +2,8 @@
 
 ### 1. MuseGen — AI Music SaaS (10k+ users)
 - Stack: Next.js, Python, GCP
-- Private repo — demo available under NDA
+- Private repo — code available under NDA
+- 🚀 **Live Demo:** [Listen on MuseGen](https://app.musegenx1000.com/s/Z7q-0Nt54Io?v=1)
 - 👉 **Hire me for AI Web Apps:** [Upwork - from $500](https://www.upwork.com/services/product/development-it-a-thai-ai-automation-system-built-in-3-weeks-2050633709600776041?ref=project_share&tier=0)
 
 <img src="https://github.com/user-attachments/assets/4397ffa7-408f-495f-aba0-792313a9e362" width="700">
